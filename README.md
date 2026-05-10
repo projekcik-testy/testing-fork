@@ -12,10 +12,8 @@ Krok 1
 Jeśli jeszcze nie masz uv na swoim komputerze, otwórz terminal i zainstaluj go.
 
 Krok 2
-Otwórz terminal (lub terminal w VS Code), wejdź do folderu, w którym trzymasz projekty, i wpisz:
-# 1. Klonowanie repozytorium
+Otwórz terminal (lub terminal w VS Code), wejdź do folderu, w którym trzymasz projekty, i wpisz
 git clone https://github.com/projekcik-testy/testing-fork.git
-# 2. Wejście do folderu projektu
 cd testing-fork
 
 
@@ -24,7 +22,7 @@ Mamy w projekcie plik pyproject.toml, który zawiera listę wszystkich naszych b
 
 uv sync
 
-Krokk 4 Współpraca
+Krok 4 Współpraca
 
 Zasada numer 1: Nigdy nie pracujemy bezpośrednio na gałęzi main!
 
